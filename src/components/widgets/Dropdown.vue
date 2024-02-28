@@ -28,7 +28,7 @@ export default {
     <div @click="isOpen = !isOpen">
         <ul class="dropdown" v-if="isOpen">
             <li class="dropdown-item" v-for="option in options" :key="option">
-                <a @click="select(option)" :href="option == 'Careers' ? `/about.html` : option.toLowerCase()">{{ option }}</a></li>
+                <a @click="select(option)" :href="option == 'Careers' ? `#/about` : option.toLowerCase()">{{ option }}</a></li>
         </ul>
         {{ text }}
     </div>
