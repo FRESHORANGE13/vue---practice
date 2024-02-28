@@ -16,31 +16,31 @@ export default {
             },
             articles: [
                 {
-                    imageUrl: "https://images.performgroup.com/di/library/omnisport/79/d8/6c9b4b26f64a40ea89b7f69ccd088d40.jpg?t=-955230179&w=640",
+                    imageUrl: "https://static01.nyt.com/images/2024/02/27/multimedia/27meyer-01-vptw/27meyer-01-vptw-superJumbo.jpg?quality=75&auto=webp",
                     title: "Inter boss Simone Inzaghi reveals admiration for Diego Simeone ahead of clash",
                     gmtTime: "2024-02-19T20:04:27.000Z",
-                    source: "FotMob",
+                    source: "NewYorkTimes",
                     lead: "Simone Inzaghi and Diego Simeone, now boss of Atletico Madrid, helped Lazio win Serie A as players in 2000.",
                     sourceIconUrl: "https://images.fotmob.com/image_resources/news/fotmob.png",
-                    pageURL: "https://www.fotmob.com/news/138lzxhk8mmsi1nflku3xemdte-inter-boss-simone-inzaghi-reveals-admiration-diego-simeone-ahead-clash"
+                    pageURL: "https://www.nytimes.com/2024/02/27/opinion/gm-ford-electric-vehicles.html"
                 },
                 {
-                    imageUrl: "https://images.performgroup.com/di/library/omnisport/79/d8/6c9b4b26f64a40ea89b7f69ccd088d40.jpg?t=-955230179&w=640",
+                    imageUrl: "https://static01.nyt.com/images/2024/02/26/multimedia/26safina1-zbvl/26safina1-zbvl-superJumbo.jpg?quality=75&auto=webp",
                     title: "Inter boss Simone Inzaghi reveals admiration for Diego Simeone ahead of clash",
                     gmtTime: "2024-02-19T20:04:27.000Z",
                     source: "FotMob",
                     lead: "Simone Inzaghi and Diego Simeone, now boss of Atletico Madrid, helped Lazio win Serie A as players in 2000.",
                     sourceIconUrl: "https://images.fotmob.com/image_resources/news/fotmob.png",
-                    pageURL: "https://www.fotmob.com/news/138lzxhk8mmsi1nflku3xemdte-inter-boss-simone-inzaghi-reveals-admiration-diego-simeone-ahead-clash"
+                    pageURL: "https://www.nytimes.com/2024/02/26/opinion/flaco-owl-death-birds.html"
                 },
                 {
-                    imageUrl: "https://images.performgroup.com/di/library/omnisport/79/d8/6c9b4b26f64a40ea89b7f69ccd088d40.jpg?t=-955230179&w=640",
+                    imageUrl: "https://paidpost-assets.nyt.com/static/100000009269110/images/img_5.jpg",
                     title: "Inter boss Simone Inzaghi reveals admiration for Diego Simeone ahead of clash",
                     gmtTime: "2024-02-19T20:04:27.000Z",
                     source: "FotMob",
                     lead: "Simone Inzaghi and Diego Simeone, now boss of Atletico Madrid, helped Lazio win Serie A as players in 2000.",
                     sourceIconUrl: "https://images.fotmob.com/image_resources/news/fotmob.png",
-                    pageURL: "https://www.fotmob.com/news/138lzxhk8mmsi1nflku3xemdte-inter-boss-simone-inzaghi-reveals-admiration-diego-simeone-ahead-clash"
+                    pageURL: "https://www.nytimes.com/paidpost/mozu-furuichi-kofun-group/the-guardians-of-japans-keyhole-tombs.html?cpv_ap_id=50582857&utm_campaign=morein&tbs_nyt=2024-jan-nytnative_morein"
                 },
                 {
                     imageUrl: "https://images.performgroup.com/di/library/omnisport/79/d8/6c9b4b26f64a40ea89b7f69ccd088d40.jpg?t=-955230179&w=640",
