@@ -16,7 +16,7 @@ export default {
 </script>
 
 <template>
-    <Header></Header>
+   
     <div class="backgroundWithImage">
         <div class="description">
             <p>Careers</p>
@@ -26,7 +26,7 @@ export default {
     <div>
         {{ copy }}
     </div>
-    <Footer></Footer>
+    
 </template>
 
 <style scoped>
