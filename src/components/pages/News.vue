@@ -2,6 +2,8 @@
 import NewsItem from "../widgets/NewsItem.vue";
 import NewsItemFooter from "../widgets/NewsItemFooter.vue";
 import TimeStamp from "../widgets/TimeStamp.vue";
+import axios from 'axios'
+
 export default {
     data() {
         return {
@@ -58,6 +60,13 @@ export default {
         NewsItem,
         TimeStamp, 
         NewsItemFooter
+    },
+    methods: {
+        getArts(option){
+            axios.get("https://fotmob-backend.onrender.com/articles").then(response => {
+               this.articles = response.data; // do you want to do something else here? 
+           })
+        }
     }
 }
 </script>
@@ -66,6 +75,9 @@ export default {
     <header class="WorldNewsHeader">
         <h1>World News</h1>
     </header>
+    <div class="button">
+        <button @click="getArts"> get articles </button>
+    </div>
     <div class="layout">
         <div class="featuredArticle">
             <div class="featuredImage">
